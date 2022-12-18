@@ -1,5 +1,5 @@
 - Hi, I’m @Adithyavarsha A S
-- I’m interested in Astronomy and Astrophysics
+- I’m interested in Physics
 - I’m currently doing BS-MS at Indian Institute of Science Education and Research(IISER)-Kolkata
 
 <!---
