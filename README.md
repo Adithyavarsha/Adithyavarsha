@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adithyavarsha</h1>
 <h3 align="center">I am doing BS-MS at IISER Kolkata</h3>
 
-- 🔭 I’m currently working on **Modelling Dynamics Of Space Choice Of Vehicles In Multi-class Traffic Lacking Lane Discipline**
+- 🔭 I’m currently working on **Modelling Dynamics Of Vehicles In Multi-class Traffic Lacking Lane Discipline**
 
 - 👨‍💻 All of my projects are available at [https://aas21ms004.wixsite.com/avarsha](https://aas21ms004.wixsite.com/avarsha)
 
