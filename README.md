@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adithyavarsha</h1>
-<h3 align="center">I am doing BS-MS at IISER Kolkata</h3>
+<h3 align="center">I am doing BS-MS at IISER Kolkata in the Department of Physical Sciences</h3>
 
 - 🔭 I’m currently working on **Modelling Dynamics Of Vehicles In Multi-class Traffic Lacking Lane Discipline**
 
