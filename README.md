@@ -1,10 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adithyavarsha</h1>
-<h3 align="center">I am doing BS-MS at IISER Kolkata in the Department of Physical Sciences</h3>
-
-- 🔭 I’m currently working on **Modelling Dynamics Of Vehicles In Multi-class Traffic Lacking Lane Discipline**
-
-- 👨‍💻 All of my projects are available at [https://aas21ms004.wixsite.com/avarsha](https://aas21ms004.wixsite.com/avarsha)
-
+<h1 align="center">Hi, I'm Adithyavarsha A S</h1>
+<h3 align="center">I am a 3rd-year BS-MS student at the Indian Institute of Science Education and Research, Kolkata, in the Department of Physical Sciences</h3>
 - 📫 How to reach me **aas21ms004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
