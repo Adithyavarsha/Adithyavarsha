@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adithyavarsha</h1>
-<h1 align="center">I am a 3rd-year BS-MS student at the Indian Institute of Science Education and Research, Kolkata, in the Department of Physical Sciences</h1>
+<h2 align="center">I am a 3rd-year BS-MS student at the Indian Institute of Science Education and Research, Kolkata, in the Department of Physical Sciences</h2>
 - 📫 How to reach me mail me at **aas21ms004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
